@@ -10,7 +10,7 @@ This project uses real-world bank marketing data from a Portuguese financial ins
 
 - Source: UCI Machine Learning Repository  
 - Dataset: Bank Marketing Dataset  
-- Records: 45,211  
+- Records: 56,373
 - Target variable: y (yes/no – whether the client subscribed to a term deposit)
 
 ## ⚙️ Techniques Used
